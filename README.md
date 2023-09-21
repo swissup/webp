@@ -1,5 +1,6 @@
 # Webp
-Magento2 module for  convert images to webp format
+Magento2 module for converting images to webp format
+
 <sup>It's a metapackage for the [original repository](https://github.com/swissup/module-webp).</sup>
 
 ### Installation
